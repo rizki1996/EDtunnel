@@ -1,0 +1,1 @@
+vless://f9021b31-e8bd-4b4d-a1d3-c9b0c1476c44@cvs-deo.shopeemobile.com:443?encryption=none&security=tls&sni=cvs-deo.shopeemobile.com.alibaba.putrivpn.biz.id&fp=randomized&type=ws&host=cvs-deo.shopeemobile.com.alibaba.putrivpn.biz.id&path=/vlesscf#XCP-WS
